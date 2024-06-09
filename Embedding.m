@@ -10,7 +10,7 @@ Green_Part = Cover_Image(:,:,2);
 Blue_Part = Cover_Image(:,:,3);
 Image = cat(3,Red_Part,Green_Part,Blue_Part);
 
-Grey_Image = rgb2gray(Red_Part);
+Grey_Image = Red_Part;
 Grey_Image = im2double(Grey_Image);
 %Converts Image to Double Precision divides every value in matrix by 255
 Grey_Image = Grey_Image*255;
