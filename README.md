@@ -104,6 +104,12 @@
 * __Displaying__
     * This is just to diplay all the Images in the table format using <span style="color:Cyan">figure()</span>  and <span style="color:Cyan">nexttile()</span> 
 ---
-
-
+* __Results__  
+The Steganographed Image obtained by two different methods (i.e by using Converting.m and Converting_n.m )
+The Input Image and the Recieved Decoded Image
+    | Converting.m | Converting_n.m |
+    | --- | --- |
+    | ![Screenshot 2024-06-12 012827](https://github.com/SaiManojGubbala/Image-Steganography/assets/171187843/09d91c1a-ea1f-43bb-aaa6-7b0740044246) | ![Screenshot 2024-06-12 012704](https://github.com/SaiManojGubbala/Image-Steganography/assets/171187843/0c4abdb0-9cf8-4c27-9978-a3356cd6b98a) |  
+    | Message Image | Decoded Image |
+    | ![Finalised_Encoding_Image](https://github.com/SaiManojGubbala/Image-Steganography/assets/171187843/29ed57bc-a203-4e44-aea2-89472e0c0d43) | ![SecretImage](https://github.com/SaiManojGubbala/Image-Steganography/assets/171187843/af04660b-1998-46be-9b76-667c35ae5346) |
 
